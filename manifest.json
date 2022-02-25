@@ -1,11 +1,11 @@
 {
-    "name": "resume_web",
-    "short_name": "resume_web",
+    "name": "Muzammil Tariq Web Resume",
+    "short_name": "Muzammil Tariq Web Resume",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A web resume.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
